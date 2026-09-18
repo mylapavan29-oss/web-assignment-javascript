@@ -1,0 +1,31 @@
+.bg-container{
+    background-color:white;
+}
+.heading{
+    color:yellowgreen;
+    font-size:25px;
+    text-align:center;
+    padding:10px;
+    margin-top:13px;
+}
+.bg-container-1{
+    background-color: antiquewhite;
+
+}
+.para{
+    color:rgb(23, 188, 54);
+    font-size:19px;
+    /* text-align:center; */
+    padding:10px;
+    /* margin-top:13px; */
+}
+.para1{
+    color:rgb(232, 135, 31);
+    font-size:19px;
+    /* text-align:center; */
+    padding:10px;
+    /* margin-top:13px; */
+}
+.skill-section{
+    background-color: aqua;
+}
